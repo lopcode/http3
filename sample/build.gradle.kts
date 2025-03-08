@@ -13,7 +13,7 @@ repositories {
 
 dependencies {
     implementation(project(":core"))
-    testImplementation("org.junit.jupiter:junit-jupiter:5.7.1")
+    testImplementation("org.junit.jupiter:junit-jupiter:5.12.0")
     testRuntimeOnly("org.junit.platform:junit-platform-launcher")
 }
 
